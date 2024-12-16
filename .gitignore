@@ -1,0 +1,13 @@
+.cache/
+.idea/
+.vscode/
+*.code-workspace
+.env
+.venv/
+env/
+venv/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
